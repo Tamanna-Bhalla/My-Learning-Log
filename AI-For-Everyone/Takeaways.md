@@ -70,6 +70,7 @@ It made me fall in love with *thinking*, not just building.
 - **Completed on:** July 2, 2025
 - **Instructor:** Andrew Ng  
 - **Platform:** Coursera  
-- **Certificate:** ✅ Yes  
+- **Certificate:** ✅ Yes  📄 [View Certificate](./AI-For-Everyone-Certificate.pdf)
+
 - **Status:** First AI course, and I’m proud of it 🌸
 
